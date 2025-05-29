@@ -9,7 +9,7 @@ Este projeto é um manual prático de uso do Git e GitHub, desenvolvido em grupo
 - [Guilherme Felipe de Morais](https://github.com/guifelipem) – RA: 5608  
 - [Antonio Marcos Mariano Pereira](https://github.com/AntonioMMP) – RA: 14512  
 - [Leonardo Mirandola Bernardo](https://github.com/LeonardoMBernardo) – RA: 14559  
-- [Felipe Pestana](https://github.com/Pestanadev) - RA: 
+- [Felipe Pestana](https://github.com/Pestanadev) - RA: 14530
 
 ## 📑 Índice de Módulos
 
