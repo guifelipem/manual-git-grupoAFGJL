@@ -76,9 +76,7 @@
 - Abra os arquivos em conflito, localize as seções conflitantes e decida qual versão manter.
 - Após resolver os conflitos, adicione os arquivos alterados ao staging area e faça um novo commit.
 - Em seguida, faça push das alterações para o repositório remoto.
-- O pull request será atualizado automaticamente com as alterações resolvidas.
-### Conclusão
-Pull requests são uma parte essencial do fluxo de trabalho colaborativo no GitHub. Eles permitem que os desenvolvedores proponham alterações, revisem o código de outros e integrem melhorias de forma organizada. Ao seguir as práticas recomendadas, você pode contribuir efetivamente para projetos e melhorar a qualidade do código em equipe.    
+- O pull request será atualizado automaticamente com as alterações resolvidas.  
 
 ### Conclusão
 
