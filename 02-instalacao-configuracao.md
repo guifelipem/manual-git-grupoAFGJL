@@ -67,4 +67,4 @@ Se a instalação estiver correta, o comando mostrará a versão do Git instalad
 
 ---
 
-Com o Git instalado e configurado, você está pronto para iniciar seus projetos, versionar seus arquivos e colaborar com outros desenvolvedores de maneira prática e eficiente.
+Com o Git instalado e configurado, você está pronto para iniciar seus projetos, versionar seus arquivos e colaborar com outros desenvolvedores de maneira prática e mais eficiente.
